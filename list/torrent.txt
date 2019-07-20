@@ -12,3 +12,16 @@ newsushe.info
 newsushe.info^$popup
 liquorumladiom.info
 liquorumladiom.info^$popup
+yggtorrent[.ch]##.security
+yggtorrent[.ch]##.safe_download.butt
+yggtorrent[.ch]##.pulse.donate
+www.malware-killers.com
+wolve.pro
+||www.geniusdexchange.com/*$script 
+hantinlethemsed.info
+dudebutandlac.info
+www2.yggtorrent.ch/assets/img/vpn_banner.gif$image
+doo6pwib3qngu.cloudfront.net^
+d3t5ngjixpjdho.cloudfront.net
+YggTorrent##.ad-alert-icon-wrapper
+YggTorrent##.ad-alert-message-text
