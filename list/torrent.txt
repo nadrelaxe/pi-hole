@@ -1,12 +1,14 @@
-yggtorrent[.to]##.ad-alert-message-text
-yggtorrent[.to]###over-18-notification
-yggtorrent[.to]##.col-lg-12 > div:nth-of-type(2)
-newspolovb[.info]^$popup
-newspolovb[.info]
-yggtorrent[.to]*3p-scriptblock
-yggtorrent[.to]*1p-scriptblock
-put*-en-ligne[.com]^$popup
+yggtorrent.to##.ad-alert-message-text
+yggtorrent.to###over-18-notification
+yggtorrent.to##.col-lg-12 > div:nth-of-type(2)
+newspolovb.info^$popup
+newspolovb.info
+yggtorrent.to*3p-scriptblock
+yggtorrent.to*1p-scriptblock
+put*-en-ligne.com^$popup
 cultidifficient.info^$popup
 cultidifficient.info
 newsushe.info
 newsushe.info^$popup
+liquorumladiom.info
+liquorumladiom.info^$popup
