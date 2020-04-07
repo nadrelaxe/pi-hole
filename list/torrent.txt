@@ -25,3 +25,9 @@ doo6pwib3qngu.cloudfront.net^
 d3t5ngjixpjdho.cloudfront.net
 YggTorrent##.ad-alert-icon-wrapper
 YggTorrent##.ad-alert-message-text
+yggtorrent.se##.ad-alert-message-text
+yggtorrent.se###over-18-notification
+yggtorrent.se##.col-lg-12 > div:nth-of-type(2)
+yggtorrent[.se]##.security
+yggtorrent[.se]##.safe_download.butt
+yggtorrent[.se]##.pulse.donate
